@@ -1,0 +1,1 @@
+[{"code":"#include <stdio.h>\r\nint main() {\r\n    int celsius;\r\n    scanf(\"%d\",&celsius);\r\n    if(celsius<=0){\r\n        printf(\"Freezing\");\r\n    }else{\r\n        printf(\"Above Freezing\");\r\n    }\r\n    return 0;\r\n}","language":"c","time":"2025-05-12T17:02:23.759Z","isCorrect":true}]
